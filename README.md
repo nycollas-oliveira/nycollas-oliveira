@@ -12,7 +12,10 @@
 💻&nbsp; Trabalho com <b>Java</b>, <b>Node.js</b> e <b>React</b><br><br>
 🌱&nbsp; Estou sempre aprendendo <b>novas tecnologias</b> e boas práticas de desenvolvimento<br><br>
 🎯&nbsp; Foco em criar <b>código limpo, organizado e funcional</b><br><br>
-📫&nbsp; <b>Como me encontrar:</b> adicione aqui seus links (LinkedIn, Instagram, portfólio)
+📫&nbsp; <b>Como me encontrar:
+</b>LinkedIn -
+  Whatsapp - WA.me/=5598981773224
+  Portfólio -
 </p>
 
 <br>
